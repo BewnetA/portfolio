@@ -22,7 +22,7 @@ export const personalInfo = {
   email: "bewnetaddisalem@gmail.com",
   phone: "+251939724433",
   resumeUrl:
-    "https://drive.google.com/file/d/1TkuoMpZ6ZEBJwiC7RbGPtHXzMNuP_9t1/view?usp=sharing",
+    "https://drive.google.com/file/d/1UfxEvsEl8AGXunXRk2RthzLM88sHkONm/view?usp=sharing",
 };
 
 export const socialLinks = [
